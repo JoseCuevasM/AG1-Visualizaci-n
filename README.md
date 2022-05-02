@@ -1,4 +1,5 @@
-# Proyecto desarrollado en stackblitz
+# AG1 - Visualización de Datos 08MBID_10_B 02/05/2022
+## Proyecto desarrollado en stackblitz
 
 Este proyecto contiene el desarrollo de la Actividad Guiada 1 (AG1) del curso de Visualización de Datos del Máster en Big Data y Data Science de la Universidad Internacional de Valencia (VIU) por el alumno Jose Luis Cuevas Muñoz.
 
