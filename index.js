@@ -24,7 +24,7 @@ var databox = [
 var visualization = d3plus.viz()
  .container("#viz1")
  .data(databox)
- .type("bar")
+ .type("box")
  .id("name")
  .x("year")
  .y("value")
