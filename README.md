@@ -1,7 +1,7 @@
-# AG1 - Visualización de Datos 08MBID_10_B 02/05/2022
+# AG - Actividades Guiadas Visualización de Datos 08MBID_10_B 02/05/2022
 ## Proyecto desarrollado en stackblitz
 
-Este proyecto contiene el desarrollo de la Actividad Guiada 1 (AG1) del curso de Visualización de Datos del Máster en Big Data y Data Science de la Universidad Internacional de Valencia (VIU) por el alumno Jose Luis Cuevas Muñoz.
+Este proyecto contiene el desarrollo de la Actividad Guiada 1,2 y 3  del curso de Visualización de Datos del Máster en Big Data y Data Science de la Universidad Internacional de Valencia (VIU) por el alumno Jose Luis Cuevas Muñoz.
 
 Adicionalmente, los datos datos de esta actividad fueron tomados de  [emisiones-co2](https://datosmacro.expansion.com/energia-y-medio-ambiente/emisiones-co2). Usando técnicas simples de web-scrapping llevamos los datos a Google Sheets, se les realizó el proceso de limpieza y finalmente fueron dispuestos para realizar gráficas en la hoja de trabajo de google. Cuando se finalizan los cambios en el gráfico y estamos seguros que deseamos publicarlo, se publican y se toma la información para insertarla en stackblitz en nuestro html.
 
